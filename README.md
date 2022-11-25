@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 <a align="right">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&layout=compact&theme=onedark" />
 </a> 
-
-![SiuYut Pang's github activity graph](https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula)
+<a align="center">
+    <img  src="https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula" />
+</a> 
+<!-- ![SiuYut Pang's github activity graph](https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula) -->
