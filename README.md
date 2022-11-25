@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)   -->
+<!-- ![SiuYut's GitHub stats](https://github-readme-stats.vercel.app/api?username=siuyutpang&show_icons=true&theme=onedark) -->
 
-![SiuYut's GitHub stats](https://github-readme-stats.vercel.app/api?username=siuyutpang&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a aligh="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=siuyutpang&show_icons=true&theme=onedark">
+</a>
+<a align="right">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&layout=compact&theme=onedark" />
+</a>   -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=siuyutpang&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&langs_count=10&layout=compact&theme=onedark" />
+</a>
+
+
+![SiuYut Pang's github activity graph](https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula)
