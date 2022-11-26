@@ -1,4 +1,4 @@
-### 👋 Thanks for stopping by!
+## 👋 Thanks for stopping by!
 
 <!--
 **siuyutpang/siuyutpang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,12 +22,10 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siuyutpang&show_icons=true&theme=onedark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&layout=compact&theme=onedark" />
 </div>  
-
+<br>
 <div>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img  src="https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula" />
 </div>
-<!-- <a align="center">
-    <img  src="https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula" />
-</a>  --> -->
-<!-- ![SiuYut Pang's github activity graph](https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula) -->
+
 <!-- <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/siuyutpang/count.svg" /></a> -->
