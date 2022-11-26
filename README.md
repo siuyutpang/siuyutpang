@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)   -->
 <!-- ![SiuYut's GitHub stats](https://github-readme-stats.vercel.app/api?username=siuyutpang&show_icons=true&theme=onedark) -->
 
-<a aligh="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=siuyutpang&show_icons=true&theme=onedark">
-</a>
-<a align="right">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&layout=compact&theme=onedark" />
-</a> 
-<a align="center">
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siuyutpang&show_icons=true&theme=onedark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siuyutpang&layout=compact&theme=onedark" />
+</div>  
+
+<div>
     <img  src="https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula" />
-</a> 
+</div>
+<!-- <a align="center">
+    <img  src="https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula" />
+</a>  --> -->
 <!-- ![SiuYut Pang's github activity graph](https://activity-graph.herokuapp.com/graph?username=siuyutpang&theme=dracula) -->
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/siuyutpang/count.svg" /></a>
+<!-- <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/siuyutpang/count.svg" /></a> -->
